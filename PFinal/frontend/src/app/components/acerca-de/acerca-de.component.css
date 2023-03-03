@@ -2,7 +2,7 @@
     padding: 20px;
 }
 div{
-    background-color: rebeccapurple;
+    background-color: blueviolet;
 }
 /*estilo de la foto de perfil*/
 @media (min-width: 576px ){
@@ -20,7 +20,8 @@ div{
         width: 15%;
         border-radius: 100%;
         box-shadow: 3px 3px 3px palevioletred;
-        top: 630px;
+        left: 40%;
+        top: 750px;
     }
 }
 
